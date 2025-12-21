@@ -769,10 +769,10 @@ mongodb@~6.10.0:
     bson "^6.7.0"
     mongodb-connection-string-url "^3.0.0"
 
-mongoose-delete@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/mongoose-delete/-/mongoose-delete-1.0.1.tgz#8db2f5b1a1d487351c1af18634c2c4e99d4cd1f2"
-  integrity sha512-vm24uep4UJOW3Ac8H/gDxURcwvl+1Cc2H7tIJ0O8ejDEFJIUoksKS9HzTOM4SvEJusAVQ0JpjhbttHpevUz71A==
+mongoose-delete@^1.0.6:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/mongoose-delete/-/mongoose-delete-1.0.7.tgz#e468f58912a5774835cd73bc2735b45d8befc98c"
+  integrity sha512-bOEKYhYdS5LxcPXG1wIimx+Gh3xecmtL1jfWnthzLvMuGDk6+WVQebf8xug2I3aMIKan3StS66CjpAj9UPOdiw==
 
 mongoose-slug-generator@^1.0.4:
   version "1.0.4"
